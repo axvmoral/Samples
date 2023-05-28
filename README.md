@@ -1,2 +1,2 @@
-# samples
-A house for all coding samples in various languages
+# Samples
+A house for all my coding samples in various languages.
